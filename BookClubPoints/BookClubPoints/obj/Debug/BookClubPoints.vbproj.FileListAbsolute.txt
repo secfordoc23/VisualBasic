@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\BookClubPoints\bin\Debug\BookClubPoints.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\bin\Debug\BookClubPoints.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\bin\Debug\BookClubPoints.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\bin\Debug\BookClubPoints.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\bin\Debug\BookClubPoints.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.splashForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\BookClubPoints\BookClubPoints\obj\Debug\BookClubPoints.pdb

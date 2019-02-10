@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\RainfallStatisticsCalculator\bin\Debug\RainfallStatisticsCalculator.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\bin\Debug\RainfallStatisticsCalculator.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\bin\Debug\RainfallStatisticsCalculator.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\bin\Debug\RainfallStatisticsCalculator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\bin\Debug\RainfallStatisticsCalculator.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\RainfallStatisticsCalculator\RainfallStatisticsCalculator\obj\Debug\RainfallStatisticsCalculator.splashForm.resources

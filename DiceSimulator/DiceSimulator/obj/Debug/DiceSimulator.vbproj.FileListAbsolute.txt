@@ -1,0 +1,20 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\bin\Debug\DiceSimulator.exe.config
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\bin\Debug\DiceSimulator.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\bin\Debug\DiceSimulator.pdb
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\bin\Debug\DiceSimulator.xml
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\obj\Debug\DiceSimulator.mainForm.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\obj\Debug\DiceSimulator.Resources.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\obj\Debug\DiceSimulator.vbproj.GenerateResource.Cache
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\obj\Debug\DiceSimulator.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\obj\Debug\DiceSimulator.xml
+C:\Users\Jason\AppData\Local\Temporary Projects\DiceSimulator\obj\Debug\DiceSimulator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.vbproj.GenerateResource.Cache

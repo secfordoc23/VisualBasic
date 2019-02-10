@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\TestScoreAverage\bin\Debug\TestScoreAverage.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.splashForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.pdb

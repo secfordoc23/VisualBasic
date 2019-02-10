@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\LongDistanceCalls\bin\Debug\LongDistanceCalls.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\bin\Debug\LongDistanceCalls.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\bin\Debug\LongDistanceCalls.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\bin\Debug\LongDistanceCalls.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\bin\Debug\LongDistanceCalls.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.splashForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\LongDistanceCalls\LongDistanceCalls\obj\Debug\LongDistanceCalls.pdb

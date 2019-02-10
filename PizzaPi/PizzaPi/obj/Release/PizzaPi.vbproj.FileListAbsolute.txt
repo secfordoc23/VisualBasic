@@ -1,0 +1,11 @@
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\bin\Release\PizzaPi.exe.config
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\bin\Release\PizzaPi.exe
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\bin\Release\PizzaPi.pdb
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\bin\Release\PizzaPi.xml
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.mainForm.resources
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.Resources.resources
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.vbproj.GenerateResource.Cache
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.exe
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.xml
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.pdb
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Release\PizzaPi.splashForm.resources

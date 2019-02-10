@@ -1,0 +1,13 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\MilesPerGallon\bin\Debug\MilesPerGallon.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.splashForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.vbprojResolveAssemblyReference.cache

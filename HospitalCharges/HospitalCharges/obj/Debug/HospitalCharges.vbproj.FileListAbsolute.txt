@@ -1,0 +1,11 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb

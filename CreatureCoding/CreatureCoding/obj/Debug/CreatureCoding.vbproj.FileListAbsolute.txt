@@ -1,0 +1,14 @@
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\bin\Debug\CreatureCoding.exe.config
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.mainForm.resources
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.Resources.resources
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.vbproj.GenerateResource.Cache
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\bin\Debug\CreatureCoding.exe
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\bin\Debug\CreatureCoding.pdb
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\bin\Debug\CreatureCoding.xml
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.exe
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.xml
+c:\users\jwelch\documents\visual studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\CreatureCoding\CreatureCoding\bin\Debug\CreatureCoding.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\CreatureCoding\CreatureCoding\obj\Debug\CreatureCoding.pdb

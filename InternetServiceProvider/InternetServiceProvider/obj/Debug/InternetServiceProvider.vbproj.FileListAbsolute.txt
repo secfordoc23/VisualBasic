@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\bin\Debug\InternetServiceProvider.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\bin\Debug\InternetServiceProvider.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\InternetServiceProvider\InternetServiceProvider\obj\Debug\InternetServiceProvider.splashForm.resources

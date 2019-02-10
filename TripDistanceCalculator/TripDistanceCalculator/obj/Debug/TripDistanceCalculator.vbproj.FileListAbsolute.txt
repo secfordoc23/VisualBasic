@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\TripDistanceCalculator\bin\Debug\TripDistanceCalculator.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\bin\Debug\TripDistanceCalculator.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\bin\Debug\TripDistanceCalculator.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\bin\Debug\TripDistanceCalculator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\bin\Debug\TripDistanceCalculator.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TripDistanceCalculator\TripDistanceCalculator\obj\Debug\TripDistanceCalculator.splashForm.resources

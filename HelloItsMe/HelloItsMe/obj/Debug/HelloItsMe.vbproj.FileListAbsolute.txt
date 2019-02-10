@@ -1,0 +1,15 @@
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\bin\Debug\HelloItsMe.exe.config
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\bin\Debug\HelloItsMe.exe
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\bin\Debug\HelloItsMe.pdb
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\bin\Debug\HelloItsMe.xml
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.frmMain.resources
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.vbproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.exe
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.xml
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.pdb
+H:\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.frmSplash.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\bin\Debug\HelloItsMe.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\HelloItsMe\HelloItsMe\obj\Debug\HelloItsMe.pdb

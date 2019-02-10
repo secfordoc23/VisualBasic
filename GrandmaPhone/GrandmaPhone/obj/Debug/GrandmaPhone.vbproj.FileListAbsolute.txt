@@ -1,0 +1,12 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\GrandmaPhone\bin\Debug\GrandmaPhone.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\bin\Debug\GrandmaPhone.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\bin\Debug\GrandmaPhone.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\bin\Debug\GrandmaPhone.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\bin\Debug\GrandmaPhone.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\GrandmaPhone\GrandmaPhone\obj\Debug\GrandmaPhone.splashForm.resources

@@ -1,0 +1,13 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\PenniesForPay\bin\Debug\PenniesForPay.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.vbprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.splashForm.resources

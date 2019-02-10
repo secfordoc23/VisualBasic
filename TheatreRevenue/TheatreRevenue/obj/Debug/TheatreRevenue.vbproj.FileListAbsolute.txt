@@ -1,0 +1,16 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\TheatreRevenue\bin\Debug\TheatreRevenue.exe.config
+C:\Users\Jason\AppData\Local\Temporary Projects\TheatreRevenue\obj\Debug\TheatreRevenue.mainForm.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\TheatreRevenue\obj\Debug\TheatreRevenue.Resources.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\TheatreRevenue\obj\Debug\TheatreRevenue.splashForm.resources
+C:\Users\Jason\AppData\Local\Temporary Projects\TheatreRevenue\obj\Debug\TheatreRevenue.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\bin\Debug\TheatreRevenue.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\bin\Debug\TheatreRevenue.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\bin\Debug\TheatreRevenue.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\bin\Debug\TheatreRevenue.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.splashForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\TheatreRevenue\TheatreRevenue\obj\Debug\TheatreRevenue.pdb

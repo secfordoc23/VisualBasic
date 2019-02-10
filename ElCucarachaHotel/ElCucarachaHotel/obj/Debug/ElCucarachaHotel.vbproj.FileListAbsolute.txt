@@ -1,0 +1,14 @@
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\bin\Debug\ElCucarachaHotel.exe.config
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\bin\Debug\ElCucarachaHotel.exe
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\bin\Debug\ElCucarachaHotel.pdb
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\bin\Debug\ElCucarachaHotel.xml
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.mainForm.resources
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.Resources.resources
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.vbproj.GenerateResource.Cache
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.exe
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.xml
+h:\documents\visual studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\bin\Debug\ElCucarachaHotel.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\ElCucarachaHotel\ElCucarachaHotel\obj\Debug\ElCucarachaHotel.pdb

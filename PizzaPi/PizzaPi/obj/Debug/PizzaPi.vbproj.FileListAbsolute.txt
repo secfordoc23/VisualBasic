@@ -1,0 +1,13 @@
+c:\users\jwelch\documents\visual studio 2013\Projects\PizzaPi\PizzaPi\bin\Debug\PizzaPi.exe.config
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.vbprojResolveAssemblyReference.cache
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.mainForm.resources
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.Resources.resources
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.vbproj.GenerateResource.Cache
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.exe
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.xml
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.pdb
+C:\Users\jwelch\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.splashForm.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\bin\Debug\PizzaPi.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.xml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\PizzaPi\PizzaPi\obj\Debug\PizzaPi.pdb
