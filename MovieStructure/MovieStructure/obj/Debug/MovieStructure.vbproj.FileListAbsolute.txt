@@ -1,0 +1,23 @@
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\bin\Debug\MovieStructure.exe.config
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\bin\Debug\MovieStructure.exe
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\bin\Debug\MovieStructure.pdb
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\bin\Debug\MovieStructure.xml
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.mainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.vbproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.exe
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.xml
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.pdb
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\MovieStructure\MovieStructure\obj\Debug\MovieStructure.vbprojResolveAssemblyReference.cache
+D:\SchoolCode\MovieStructure\MovieStructure\bin\Debug\MovieStructure.exe.config
+D:\SchoolCode\MovieStructure\MovieStructure\bin\Debug\MovieStructure.exe
+D:\SchoolCode\MovieStructure\MovieStructure\bin\Debug\MovieStructure.pdb
+D:\SchoolCode\MovieStructure\MovieStructure\bin\Debug\MovieStructure.xml
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.vbprojResolveAssemblyReference.cache
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.mainForm.resources
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.Resources.resources
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.splashForm.resources
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.vbproj.GenerateResource.Cache
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.exe
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.xml
+D:\SchoolCode\MovieStructure\MovieStructure\obj\Debug\MovieStructure.pdb
